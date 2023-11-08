@@ -1,0 +1,40 @@
+#welcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 200px);
+  }
+  
+  #welcome h1 {
+    font-size: 3rem;
+    color:#252525;
+  }
+  
+  #welcome h2 {
+    font-size: 2rem;
+    color: #a229b3;
+  }
+
+  .icon-box {
+    margin-top: 50px;
+    border-radius: 25px;
+  }
+
+  .no-scroll {
+    overflow: hidden;
+  }
+  
+  .social-links{
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+    transition: all 0.2s ease;
+  }
+
+  .social-links:hover{
+    transform: translateY(-0px) scale(120%);
+  }
+
+ 
