@@ -27,7 +27,7 @@ function AboutMePage() {
             </h1>
             <div className='subTitle-box'>
               <h2 className="subTitle">
-                { `E sou um desenvolvedor web!` }
+                { `E sou um desenvolvedor webb!` }
               </h2>
             </div>
         </div>
